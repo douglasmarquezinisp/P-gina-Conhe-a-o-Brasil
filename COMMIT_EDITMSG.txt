@@ -1,0 +1,20 @@
+
+
+Signed-off-by: Douglas Marquezini <142677282+douglasmarquezinisp@users.noreply.github.com>
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   untld-1 novo.html
+#
+# Changes not staged for commit:
+#	modified:   untld-1 novo.html
+#
+# Untracked files:
+#	IMG/
+#
